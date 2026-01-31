@@ -7,3 +7,10 @@ Il sistema integra un file manager su LittleFS, funzioni di logging persistente,
 SPECTER-S3 unisce controllo hardware, gestione dati e visualizzazione su display in un’unica esperienza, offrendo un ambiente modulare, espandibile e completamente personalizzabile per chi vuole portare l’ESP32 oltre il semplice prototipo da banco. CONTIENE TOOL DI HAKING AVANZATO 
 DESCLAMAIR 
 URILIZZARLO SOLO IN UN AMBIENTE CONTROLLATO SU LE PROPIE RETE WIFY, SE LO SI USA IN PUBBLICO SI RISCHIA DI FINIRE IN QUAI SERI. 
+
+
+
+SPECTER-S3 ESP32 firmware
+ESP32-S3 OLED RFID tool
+ESP32 portable device with display and buttons
+ESP32 RFID logger firmware
