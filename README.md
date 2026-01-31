@@ -1,4 +1,5 @@
-# SPECTER-S3
+# # SPECTER-S3 — ESP32-S3 Portable OLED RFID Tool
+
 Tool portatile ESP32 con RFID, log e display
 SPECTER-S3 è un firmware per ESP32-S3 pensato per trasformare una semplice scheda con OLED, tasti e lettore RFID in un vero dispositivo portatile multifunzione. L’interfaccia su display permette di navigare tra menu chiari e veloci, gestire file salvati nella memoria interna, analizzare segnali audio in tempo reale e leggere/salvare UID delle tessere RFID tramite il modulo MFRC522.
 
